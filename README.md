@@ -13,7 +13,7 @@ jigsaw I am very interested in TypeScript type gymnastics, you can discuss learn
 computer Coding is my passion
 Languages and Tools:
 
-HTML5 CSS3 JavaScript TypeScript
+HTML5 CSS3 JavaScript ![alt text](http:https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 
 React MobX Nodejs
 
