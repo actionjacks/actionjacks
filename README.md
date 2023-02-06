@@ -11,6 +11,10 @@
 
 <br/>
 
+[![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
+
+<br/>
+
 ![Alt text](https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465 "Optional title")
 ![Alt text](https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162 "Optional title")
 ![Alt text](https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666 "Optional title")
