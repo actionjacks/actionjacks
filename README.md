@@ -11,7 +11,7 @@
 
 <br/>
 
-[![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
+[![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories)
 
 <br/>
 
