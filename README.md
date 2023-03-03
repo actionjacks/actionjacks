@@ -10,7 +10,7 @@
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-<img src="[https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg)" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30"/>
 
 <br/>
 
