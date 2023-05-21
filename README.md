@@ -15,6 +15,10 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 <div>
+    [![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,&perline=50)](https://skillicons.dev)
+</div>
+
+<div>
     <p>I started playing with dotnet</p>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30"/>
 </div>
