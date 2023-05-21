@@ -14,7 +14,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,&perline=50)](https://skillicons.dev)
 <div>
     [![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,&perline=50)](https://skillicons.dev)
 </div>
