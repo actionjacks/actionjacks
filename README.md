@@ -14,10 +14,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
-[![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,&perline=50)](https://skillicons.dev)
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,&perline=50)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=azure,cs,cpp,bootstrap,css,docker,dotnet,electron,emotion,firebase,gamemakerstudio,gitlab,go,godot,graphql,js,kubernetes,linux,md,mongodb,mysql,nestjs,nodejs,nuxtjs,postgres,postman,prisma,py,react,redux,redis,sass,supabase,tailwind,ts,unity,vite&perline=50)](https://skillicons.dev)
 
 <div>
     <p>I started playing with dotnet</p>
