@@ -15,6 +15,10 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 ![RabbitMq](http://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=red)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Go&logoColor=blue)
+![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
+
 <br/>
 
 <div>
